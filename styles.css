@@ -157,7 +157,10 @@ button {
     align-items: center;
     width: 100%;
   }
-  .main-card, .card-summary{
+  .main-card{
     width: 50%;
+  }
+  .card-summary{
+    width: 80%;
   }
 }
